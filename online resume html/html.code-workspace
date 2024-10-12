@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/shiva/OneDrive/Documents/html"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Survey form"
+		},
+		{
+			"path": "../my portfolio webpage"
+		},
+		{
+			"path": "../Landing page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my portfolio webpage"
+	}
+}
